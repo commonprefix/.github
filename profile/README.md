@@ -19,7 +19,7 @@ Projects developed by us, hosted on other organizations:
 * [Kevlar](https://github.com/lightclients/kevlar): A CLI tool that utilizes Patronum to run a light client-based RPC Proxy for PoS Ethereum. Kevlar can be used to make Metamask or any RPC-based wallet completely trustless.
 * [Phygitals](https://github.com/flrfinance/phygital-redemptions-contracts): A production-ready implementation of the [Ermis](https://enosys.global/papers/ermisWhitepaper.pdf) protocol, that enables users to redeem NFTs on-chain and get the corresponding physical item delivered by the vendor – all without implicating any third-party service. More about the protocol can be found in [this](https://enosys.medium.com/phygitals-part-1-f2f3aa7ede69) series of posts.
 
-Projects we've collaborated to:
+Projects we've collaborated on:
 * [Harmony](https://github.com/harmony-one/harmony). The core consensus implementation of the Harmony protocol. We implemented several bug fixes, discovered in our [technical report](https://www.commonprefix.com/static/clients/harmony/harmony_tech_report_v2.pdf).
 * [Lens Recommender](https://github.com/Karma3Labs/ts-lens): A project utilizing the [Eigentrust Algorithm](https://nlp.stanford.edu/pubs/eigentrust.pdf) to generate multiple reputation rankings for users living on the Lens Social Network.
 
