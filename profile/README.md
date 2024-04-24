@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; position: relative;">
-  <img src="./cp-logo-inversed.png" alt="Common Prefix Logo" style="max-width: 150px; height: auto;" />
-  <img src="bg-removed.png" alt="Secondary Image" style="max-width: 300px; height: auto; position: absolute; left: 50%; transform: translateX(-50%);" />
+  <img src="https://github.com/commonprefix/.github/blob/18c83a92c7273753c213750eca1b2807ad75d572/profile/cp-logo-inversed.png?raw=true" alt="Common Prefix Logo" style="max-width: 150px; height: auto;" />
+  <img src="https://raw.githubusercontent.com/commonprefix/.github/18c83a92c7273753c213750eca1b2807ad75d572/profile/bg-removed.png" alt="Secondary Image" style="max-width: 300px; height: auto; position: absolute; left: 50%; transform: translateX(-50%);" />
 </div>
 
 Common Prefix is a team of engineers and scientists committed to pioneering advancements in blockchain technology. We specialize in bridging the gap between academic rigor and industry practices focusing on Layer-1 and Layer-2 technologies, interoperability, scalability, and usability of distributed ledgers.
