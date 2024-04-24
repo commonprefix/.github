@@ -23,5 +23,5 @@ Projects we've collaborated on:
 * [Harmony](https://github.com/harmony-one/harmony). The core consensus implementation of the Harmony protocol. We implemented several bug fixes, discovered in our [technical report](https://www.commonprefix.com/static/clients/harmony/harmony_tech_report_v2.pdf).
 * [Lens Recommender](https://github.com/Karma3Labs/ts-lens): A project utilizing the [Eigentrust Algorithm](https://nlp.stanford.edu/pubs/eigentrust.pdf) to generate multiple reputation rankings for users living on the Lens Social Network.
 
-See what we're up to in [commonprefix.com](https://commonprefix.com) or get in touch at [hello@commonprefix.com](mailto:hello@commonprefix.com)!
+See what we're up to at [commonprefix.com](https://commonprefix.com) or get in touch at [hello@commonprefix.com](mailto:hello@commonprefix.com)!
 
