@@ -1,5 +1,3 @@
-
-
 <picture>
   <img alt="logo" src="https://github.com/commonprefix/.github/blob/18c83a92c7273753c213750eca1b2807ad75d572/profile/cp-logo-inversed.png?raw=true" width="auto" height="180">
 </picture>
