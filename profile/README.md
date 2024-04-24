@@ -18,7 +18,7 @@ Some of the projects that we're currently building are:
 Projects developed by us, hosted on other organizations:
 * [Flare Wraps](https://github.com/flrfinance/flr-wraps-contracts): A multisig-based ETH <> Flare bridge currently holding more than 3M USD TVL, consisting of a [validator](https://github.com/flrfinance/flr-wraps-validator) and the [contracts](https://github.com/flrfinance/flr-wraps-contracts).
 * [Patronum](https://github.com/lightclients/patronum): An Ethereum RPC proxy that verifies RPC responses against given trusted block hashes.
-* [Kevlar](https://github.com/lightclients/kevlar): A CLI tool that utilized Patronum to run a light client-based RPC Proxy for PoS Ethereum. Kevlar can be used to make Metamask or any RPC-based wallet completely trustless.
+* [Kevlar](https://github.com/lightclients/kevlar): A CLI tool that utilizes Patronum to run a light client-based RPC Proxy for PoS Ethereum. Kevlar can be used to make Metamask or any RPC-based wallet completely trustless.
 * [Phygitals](https://github.com/flrfinance/phygital-redemptions-contracts): A production-ready implementation of the [Ermis](https://enosys.global/papers/ermisWhitepaper.pdf) protocol, that enables users to redeem NFTs on-chain and get the corresponding physical item delivered by the vendor – all without implicating any third-party service. More about the protocol can be found in [this](https://enosys.medium.com/phygitals-part-1-f2f3aa7ede69) series of posts.
 
 Projects we've collaborated to:
