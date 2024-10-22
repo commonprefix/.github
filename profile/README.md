@@ -12,7 +12,7 @@ Some of the projects that we're currently building are:
 * [State prover](https://github.com/commonprefix/state-prover): A simple API for generating proofs from the Ethereum beacon state using a Lodestar node.
 * [Block roots archive](https://github.com/commonprefix/block-roots-archive): A caching layer including a data scraper and a server designed to aggregate and provide access to all the block roots within a single Sync Committee period of the Beacon API of Ethereum.
 * [Axelar <> XRPL Integration](https://github.com/commonprefix/axelar-xrpl-relayer): An integration of Axelar with the Ripple Chain consisting of a [relayer](https://github.com/commonprefix/axelar-xrpl-relayer) and the [contracts](https://github.com/commonprefix/axelar-xrpl-solidity).
-* [Ancestry Prover](): An all-in-one solution for proving that a beacon block is a predecessor of another beacon block.
+* [Ancestry Prover](https://github.com/commonprefix/ancestry-prover): An all-in-one solution for proving that a beacon block is a predecessor of another beacon block.
   
 Projects developed by us, hosted on other organizations:
 * [Flare Wraps](https://github.com/flrfinance/flr-wraps-contracts): A multisig-based ETH <> Flare bridge currently holding more than 3M USD TVL, consisting of a [validator](https://github.com/flrfinance/flr-wraps-validator) and the [contracts](https://github.com/flrfinance/flr-wraps-contracts). Developed in collaboration with [Ēnosys](https://enosys.global/),
