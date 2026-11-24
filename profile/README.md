@@ -3,26 +3,46 @@
     <img src="https://github.com/commonprefix/.github/blob/main/profile/logo.png?raw=true" width="auto"  height="180">
 </picture>
 
-Common Prefix is a team of engineers and scientists committed to pioneering advancements in blockchain technology. We specialize in bridging the gap between academic rigor and industry practices focusing on Layer-1 and Layer-2 technologies, interoperability, scalability, and usability of distributed ledgers.
+### Building trust technologies to create certainty in mission-critical systems.
 
-In partnership with leading networks such as Axelar, Babylon, Celestia, Harmony, MystenLabs and Snowfork we actively utilize our GitHub organization to share cutting-edge projects developed by our team. We believe that open-sourcing projects and ideas cultivates a collaborative environment that rapidly propels the blockchain community forward.
+Common Prefix combines research and engineering to build trust technologies that provide assurance in high-stakes environments. We ensure that the infrastructure our customers depend on is correct, safe, secure, and compliant, with provable guarantees. Our products use agent-driven formal proofs to reduce risk, drawing on cryptography, game theory, consensus, distributed systems, and beyond.
 
-Some of the projects that we're currently building are:
-* [Axelar light client](https://github.com/commonprefix/axelar-light-client): An Ethereum prover/verifier implementation of a light client that employs the Sync Committee protocol of Ethereum to bridge events from Ethereum to Axelar with existential honesty assumptions.
-* [State prover](https://github.com/commonprefix/state-prover): A simple API for generating proofs from the Ethereum beacon state using a Lodestar node.
-* [Block roots archive](https://github.com/commonprefix/block-roots-archive): A caching layer including a data scraper and a server designed to aggregate and provide access to all the block roots within a single Sync Committee period of the Beacon API of Ethereum.
-* [Axelar <> XRPL Integration](https://github.com/commonprefix/axelar-xrpl-relayer): An integration of Axelar with the Ripple Chain consisting of a [relayer](https://github.com/commonprefix/axelar-xrpl-relayer) and the [contracts](https://github.com/commonprefix/axelar-xrpl-solidity).
-* [Ancestry Prover](https://github.com/commonprefix/ancestry-prover): An all-in-one solution for proving that a beacon block is a predecessor of another beacon block.
-* [Patronum](https://github.com/commonprefix/patronum): An Ethereum RPC proxy that verifies RPC responses against given trusted block hashes.
-* [Kevlar](https://github.com/commonprefix/kevlar): A CLI tool that utilizes Patronum to run a light client-based RPC Proxy for PoS Ethereum. Kevlar can be used to make Metamask or any RPC-based wallet completely trustless.
-  
-Projects developed by us, hosted on other organizations:
-* [Flare Wraps](https://github.com/flrfinance/flr-wraps-contracts): A multisig-based ETH <> Flare bridge currently holding more than 3M USD TVL, consisting of a [validator](https://github.com/flrfinance/flr-wraps-validator) and the [contracts](https://github.com/flrfinance/flr-wraps-contracts). Developed in collaboration with [Ēnosys](https://enosys.global/),
-* [Phygitals](https://enosys.medium.com/phygitals-part-1-f2f3aa7ede69): A production-ready implementation of the [Ermis](https://enosys.global/papers/ermisWhitepaper.pdf) protocol, that enables users to redeem NFTs on-chain and get the corresponding physical item delivered by the vendor – all without implicating any third-party service. Developed in collaboration with [Ēnosys](https://enosys.global/).
+## Products
 
-Projects we've collaborated on:
-* [Harmony](https://github.com/harmony-one/harmony). The core consensus implementation of the Harmony protocol. We implemented several bug fixes, discovered in our [technical report](https://www.commonprefix.com/static/clients/harmony/harmony_tech_report_v2.pdf).
-* [Lens Recommender](https://github.com/Karma3Labs/ts-lens): A project utilizing the [Eigentrust Algorithm](https://nlp.stanford.edu/pubs/eigentrust.pdf) to generate multiple reputation rankings for users living on the Lens Social Network.
+* **[Coder](https://www.commonprefix.com/coder)**: software, proven correct. An AI coding agent: describe what you need, and it writes the software, then proves in Lean 4 that it does what you asked, or shows you a counterexample.
+* **[Axelar](https://www.axelar.network/)**: the interoperability network for moving assets and messages between blockchains. Common Prefix has worked on Axelar since 2021 and leads its stewardship since late 2025: technology direction, product and the [2026 roadmap](https://www.commonprefix.com/blog/axelar-roadmap).
 
-See what we're up to at [commonprefix.com](https://commonprefix.com) or get in touch at [hello@commonprefix.com](mailto:hello@commonprefix.com)!
+## Partners
 
+We work with networks, foundations and companies that run mission-critical infrastructure, from finance to blockchains:
+
+[Axelar](https://www.commonprefix.com/clients/axelar) · [Ripple](https://www.commonprefix.com/clients/ripple) · [XRP Ledger Foundation](https://www.commonprefix.com/clients/xrplf) · [pod](https://www.commonprefix.com/clients/pod) · [Mysten Labs](https://www.commonprefix.com/clients/mysten) · [Babylon](https://www.commonprefix.com/clients/babylon) · [Celestia](https://www.commonprefix.com/clients/celestia) · [Espresso Systems](https://www.commonprefix.com/clients/espresso) · [BOB](https://www.commonprefix.com/clients/bob) · [Citrea](https://www.commonprefix.com/clients/citrea) · [Flashbots](https://www.commonprefix.com/clients/flashbots) · [Sei](https://www.commonprefix.com/clients/sei) · [Quai Network](https://www.commonprefix.com/clients/quai) · [Pi Squared](https://www.commonprefix.com/clients/pi2) · [Snowfork](https://www.commonprefix.com/clients/snowfork) · [dcSpark](https://www.commonprefix.com/clients/dcspark) · [Bifrost](https://www.commonprefix.com/clients/bifrost) · [Harmony](https://www.commonprefix.com/clients/harmony) · [=nil; Foundation](https://www.commonprefix.com/clients/nil) · [Bitpanda](https://www.commonprefix.com/clients/bitpanda) · [Zano](https://www.commonprefix.com/clients/zano)
+
+Supported by a grant from the [Ethereum Foundation](https://www.commonprefix.com/grants/ethereum-foundation).
+
+## Open source
+
+**XRP Ledger**
+* [xrpl-cli](https://github.com/commonprefix/xrpl-cli): a Swiss Army knife for interacting with the XRP Ledger from the command line.
+* [xrpl-validator](https://github.com/commonprefix/xrpl-validator): Terraform and Ansible configuration for running XRP Ledger validator clusters on AWS.
+* [rippled-formal-verification](https://github.com/commonprefix/rippled-formal-verification): our work on formally verifying the XRP Ledger. Read the [first proofs](https://www.commonprefix.com/blog/formal-verification-of-xrpl-foundations-and-first-proofs).
+* [axelar-xrpl-solidity](https://github.com/commonprefix/axelar-xrpl-solidity): the Solidity contracts of the Axelar <> XRPL integration.
+
+**Ethereum light clients and proofs**
+* [Kevlar](https://github.com/commonprefix/kevlar): a light-client-based RPC proxy for PoS Ethereum that makes MetaMask, or any RPC wallet, trustless.
+* [Patronum](https://github.com/commonprefix/patronum): an Ethereum RPC proxy that verifies RPC responses against trusted block hashes.
+* [Ancestry prover](https://github.com/commonprefix/ancestry-prover): proves that a beacon block is a predecessor of another.
+* [State prover](https://github.com/commonprefix/state-prover): Merkle inclusion proofs from Ethereum beacon blocks and states.
+* [Axelar light client](https://github.com/commonprefix/axelar-light-client): an Ethereum light client on the Sync Committee protocol, bridging events from Ethereum to Axelar.
+
+**Cryptography and learning**
+* [btc-mpc](https://github.com/commonprefix/btc-mpc): distributed key generation and threshold signatures on Bitcoin.
+* [The Art of Blockchain Programming](https://github.com/commonprefix/art-of-blockchain): a guide from zero to hero in web3.
+
+## Research
+
+Our team publishes at the venues where the field is decided: CRYPTO, EUROCRYPT, CCS, Financial Cryptography, AFT and more. Read the [papers](https://www.commonprefix.com/research), the [blog](https://www.commonprefix.com/blog), and listen to our podcast, [Honest Majority](https://www.commonprefix.com/podcast).
+
+---
+
+[commonprefix.com](https://www.commonprefix.com) · [Careers](https://www.commonprefix.com/careers) · [hello@commonprefix.com](mailto:hello@commonprefix.com)
